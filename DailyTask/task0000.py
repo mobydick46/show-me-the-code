@@ -1,11 +1,5 @@
 # -*- coding: UTF-8 -*-   
 '''
-Created on 2016年11月23日
-
-@author: mobydick46
-'''
-# -*- coding: UTF-8 -*-   
-'''
 Created on 2016年11月22日
 将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果
 @author: mobydick46
